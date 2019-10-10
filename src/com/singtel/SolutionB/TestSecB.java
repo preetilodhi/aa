@@ -1,7 +1,7 @@
 package com.singtel.SolutionB;
 
-import com.section.B.Fish.Colour;
-import com.section.B.Fish.Size;
+import com.singtel.SolutionB.Fish.Colour;
+import com.singtel.SolutionB.Fish.Size;
 
 
 
