@@ -1,6 +1,6 @@
 package com.singtel.TestSolutionA3;
 
-import com.singtel.SolutionB.Animal.Sex;
+import com.singtel.TestSolutionA3.Animal.Sex;
 
 public class TestSecA3 {
 	public static void main(String[] args) {

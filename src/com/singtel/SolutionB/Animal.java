@@ -1,14 +1,14 @@
 package com.singtel.SolutionB;
 
 public abstract class Animal {
-    protected enum Sex {MALE,FEMALE};
-    protected Sex sex;
+    public enum Sex {MALE,FEMALE};
+   public Sex sex;
 
-    protected void setSex(Sex sex){
+    public void setSex(Sex sex){
         this.sex = sex;
     }
 
-    protected Sex getSex(){
+    public Sex getSex(){
         return sex;
     }
 
